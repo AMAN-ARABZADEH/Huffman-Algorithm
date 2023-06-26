@@ -1,6 +1,6 @@
 # Huffman-Algorithm
 
-
+<img src="https://t.bkit.co/w_6499780fbd5f6.gif" />
 This repository contains an implementation of Huffman coding, a popular algorithm for data compression.
 
 ## Introduction
