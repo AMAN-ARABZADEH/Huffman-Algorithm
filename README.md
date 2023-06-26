@@ -37,4 +37,6 @@ For more information on the Huffman algorithm and its implementation, please ref
 - [Wikipedia: Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding)
 - [GeeksforGeeks: Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
 - [GeeksforGeeks: Huffman Decoding](https://www.geeksforgeeks.org/huffman-decoding/)
+- [Youtube: Huffman Coding]( https://www.youtube.com/watch?v=co4_ahEDCho&ab_channel=AbdulBari)
+
 
