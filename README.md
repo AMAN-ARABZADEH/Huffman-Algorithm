@@ -16,8 +16,6 @@ To use the Huffman coding implementation, follow these steps:
 git clone <https://github.com/AMAN-ARABZADEH/Huffman-Algorithm>
 
 
-2.  Enter the input text when prompted.
-
 3. The program will generate the Huffman codes for each character and display the encoded and decoded data.
 
 ## Code Description
