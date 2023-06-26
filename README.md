@@ -13,7 +13,7 @@ It uses a binary tree structure to encode characters efficiently, with more freq
 To use the Huffman coding implementation, follow these steps:
 
 1. Clone the repository:
-git clone <[repository_url](https://github.com/AMAN-ARABZADEH/Huffman-Algorithm/new/main?readme=1)https://github.com/AMAN-ARABZADEH/Huffman-Algorithm/new/main?readme=1>
+git clone <[(https://github.com/AMAN-ARABZADEH/Huffman-Algorithm/new/main?readme=1])https://github.com/AMAN-ARABZADEH/Huffman-Algorithm/new/main?readme=1>
 
 
 2.  Enter the input text when prompted.
