@@ -1,5 +1,5 @@
 //
-// Created by amana on 2023-06-26.
+// Created by Aman on 2023-06-26.
 //
 
 #ifndef HUFFMAN_HUFFMAN_H
