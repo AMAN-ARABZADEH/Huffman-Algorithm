@@ -28,6 +28,9 @@ git clone <https://github.com/AMAN-ARABZADEH/Huffman-Algorithm>
 - The `decodeData` method decodes the encoded data using the Huffman codes.
 - The `getCodes` method returns the generated Huffman codes for each character.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to use this code as a reference or incorporate it into your own projects. 
 For more information on the Huffman algorithm and its implementation, please refer to the provided sources:
